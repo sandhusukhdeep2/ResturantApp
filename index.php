@@ -9,6 +9,6 @@
 	background-color:red;
 </style>
 <body>
-hello world
+<h1>hello world</h1>
 </body>
 </html>
