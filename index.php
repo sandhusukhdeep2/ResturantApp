@@ -4,8 +4,8 @@
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<title>Home Page</title>
-</head> 
+</head>
 <body>
-<h1>hello world to you</h1>
+<h1>hello to </h1>
 </body>
 </html>
